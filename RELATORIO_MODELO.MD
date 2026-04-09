@@ -153,7 +153,7 @@ Construa um gráfico mostrando o **tempo de execução em função do número de
 
 Inserir o gráfico abaixo:
 
-![Gráfico Tempo Execução](graficos/tempo_execucao.png)
+![Gráfico Tempo Execução](grafico_tempo_processos.png)
 
 ---
 
@@ -169,7 +169,7 @@ Construa um gráfico mostrando o **speedup obtido**.
 
 Inserir o gráfico abaixo:
 
-![Gráfico Speedup](graficos/speedup.png)
+![Gráfico Speedup](grafico_speedup.png)
 
 ---
 
