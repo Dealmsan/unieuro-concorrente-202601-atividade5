@@ -1,16 +1,18 @@
-# Relatório da NOME DA ATIVIDADE
+##Relatório da Atividade: Avaliação de Similaridade de Perguntas com MPI
+Disciplina: Programação Paralela e Concorrente
 
-**Disciplina:** 
-**Aluno(s):**
-**Turma:**
-**Professor:**
-**Data:**
+*Aluno(s): Álex de Almeida Santana
+
+*Turma: Sistemas de informação Noturno 4/5 semestre
+
+*Professor: [Rafael]
+
+*Data: 08/04/2026
 
 ---
 
-# 1. Descrição do Problema
-
-Descreva o problema computacional resolvido pelo programa.
+#1. Descrição do Problema
+O programa resolve o problema de comparação de similaridade entre pares de textos em um grande dataset de perguntas (provavelmente do Quora).
 
 ## Orientações para preenchimento
 
